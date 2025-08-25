@@ -88,6 +88,45 @@
             <mxPoint x="220" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="640" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-32" value="Диспетчер дорожного &lt;br&gt;дивжения" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="980" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-33" value="Сис. админ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1095" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-34" value="Дорожный поток" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-36" value="Обучить ИИ-агента" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="969" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-37" value="Настроить &lt;br&gt;параметры системы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1018" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-38" value="Мониторить эффективность" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1067" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-39" value="Симулировать &lt;br&gt;дорожное движение" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1107" width="179" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-40" value="ИИ система" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="60" y="890" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-41" value="Управлять фазами светорфора" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="969" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-42" value="Принимать решения в реальном времени" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="963.5" width="140" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-43" value="Оптимизировать дорожный поток" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="969" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PSk8IHxr8TgTUYcHB9Jw-44" value="Сохранить обученную модель" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1107" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
